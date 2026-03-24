@@ -1,0 +1,28 @@
+Artificial Intelligence (AI) is the simulation of human intelligence by machines.
+Machine learning is a subset of AI that allows systems to learn from data.
+Deep learning uses neural networks with many layers to analyze data.
+Natural Language Processing (NLP) enables machines to understand human language.
+AI is used in healthcare, finance, transportation, and many other industries.
+Large language models like GPT and BERT are trained on massive text datasets.
+Reinforcement learning teaches agents to make decisions by rewarding correct behavior.
+Computer vision allows machines to interpret and understand visual information from images.
+
+
+Python is a high-level, general-purpose programming language created by Guido van Rossum.
+Python was first released in 1991 and emphasizes code readability and simplicity.
+Python supports multiple programming paradigms including procedural, object-oriented, and functional.
+The Python Package Index (PyPI) hosts over 400,000 packages for various tasks.
+Popular Python frameworks include Django and Flask for web development.
+NumPy, Pandas, and Matplotlib are essential Python libraries for data science.
+Python is the most widely used language for machine learning and AI development.
+Virtual environments in Python help manage project dependencies separately.
+
+
+LangChain is a framework for developing applications powered by language models.
+It provides tools for chaining together different AI components.
+LangChain supports document loaders, text splitters, embeddings, and vector stores.
+RAG stands for Retrieval-Augmented Generation, combining search with text generation.
+In RAG systems, user queries retrieve relevant documents before generating answers.
+FAISS is a library by Facebook AI for efficient similarity search in vectors.
+HuggingFace provides thousands of free pre-trained models for NLP tasks.
+The sentence-transformers library creates dense vector representations of sentences.
